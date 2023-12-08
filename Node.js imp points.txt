@@ -1,0 +1,2 @@
+- "_" is special variable that stores last evaluated value of expression like we've
+    20 + 10 = 30 (Now _ will have 30 as value, and _ - 20 will provide 10 and now _ will have 10)
